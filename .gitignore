@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+/.ideal
 /US_business_links/
 /cats_dogs_sf/
 /dataset/
@@ -10,3 +11,4 @@
 /wikipedia_w16/
 /wikipedia_w0/
 /mnist_test/
+/ml-20m/
